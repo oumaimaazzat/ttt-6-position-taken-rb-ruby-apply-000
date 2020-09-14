@@ -4,4 +4,4 @@ def position_taken?(board = [" "," "," "," "," "," "," "," "," "], index = "X")
   #   taken = false
   # else
   #   taken = true
-  # end
+end
