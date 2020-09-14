@@ -1,2 +1,2 @@
-def position_taken?(board = [" "," "," "," "," "," "," "," "," "], index = X or O)
+def position_taken?(board = [" "," "," "," "," "," "," "," "," "], index = X and O)
   
